@@ -3,7 +3,7 @@
 # [Breast Cancer Detection using Support Vector Machine](https://github.com/aimanraz/br-ccr-svm-svc.git)
 This time we will used SVM model to predict the tumors based on given output. Classify tumors malignant or benign based on several observation/features. Interested? lets jump ahead. 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.labroots.com%2Ftrending%2Fclinical-and-molecular-dx%2F8770%2Fdifferences-benign-malignant-tumors&psig=AOvVaw2hhsqxXveKi_OF9V-INac_&ust=1635403314400000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjerKP-6fMCFQAAAAAdAAAAABAE)
+![](https://d3bkbkx82g74b8.cloudfront.net/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9Db2xvcmVjdGFsX2NhcmNpbm9tYV9seW1waF9ub2RlX21ldGFzdGFzaXNfLS1faGlnaF9tYWdfZWQ3NDAyYjE5YzY4MDg2MDhhMmQ0MDQ0ZWEyYmVkMmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo3MDAsImZpdCI6ImNvdmVyIn19fQ==)
 
 # [Application Tool To Predict Resistance Spot Welding Weld Quality](https://github.com/aimanraz/rsw-deep-learning.git) 
 * Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
