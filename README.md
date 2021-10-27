@@ -1,7 +1,7 @@
 # List of Machine Learning Project
 
 # [Breast Cancer Detection using Support Vector Machine](https://github.com/aimanraz/br-ccr-svm-svc.git)
-This time we will used SVM model to predict the tumors based on given output. Classify tumors malignant or benign based on several observation/features. Interested? lets jump ahead. 
+This time we will used SVM model to predict the tumors based on the extracted tumors features. Classify tumors malignant or benign based on several observation/features. Interested? lets jump ahead. 
 
 ![](https://github.com/aimanraz/br-ccr-svm-svc/blob/main/img/m_b-ConvertImage.jpg)
 
