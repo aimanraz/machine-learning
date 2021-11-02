@@ -1,5 +1,10 @@
 # List of Machine Learning Project
 
+# [Fashion/Clothes Detection using Convolutional Neural Network (CNN)](https://github.com/aimanraz/fsh-dtcn-cnn.git)
+Before we start, I want to share with you guys what inspired me to do this project, Did you guys know that according to the [news](https://economictimes.indiatimes.com/small-biz/sme-sector/fast-fashion-industry-wants-cheap-disposable-trendy-clothes-but-it-comes-at-a-price/articleshow/77032023.cms) in July 2020, fashion and textile industries contribute 2.3 % to the world GDP which equivalent to 1.8 trillion USD!. Yeah, textile and fashion industries under the major spotlight. Next, I want to share with you some old videos from YouTube about [Amazon 'echo look'](https://youtu.be/9X_fP4pPWPw) which also inspired me to develop this model.
+
+![](https://github.com/aimanraz/fsh-dtcn-cnn/blob/main/img/Fash_demo-ConvertImage.jpg)
+
 # [Breast Cancer Detection using Support Vector Machine](https://github.com/aimanraz/br-ccr-svm-svc.git)
 This time we will used SVM model to predict the tumors based on the extracted tumors features. Classify tumors malignant or benign based on several observation/features. Interested? lets jump ahead. 
 
