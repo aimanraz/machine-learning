@@ -6,7 +6,7 @@ Before we start, I want to share with you guys what inspired me to do this proje
 ![](https://github.com/aimanraz/fsh-dtcn-cnn/blob/main/img/Fash_demo-ConvertImage.jpg)
 
 # [Breast Cancer Detection using Support Vector Machine](https://github.com/aimanraz/br-ccr-svm-svc.git)
-This time we will used SVM model to predict the tumors based on the extracted tumors features. Classify tumors malignant or benign based on several observation/features. Interested? lets jump ahead. 
+This time we will use the SVM model to predict the tumors based on the extracted tumors features. Classify tumors malignant or benign based on several observations/features. Interested? Let's jump ahead.
 
 ![](https://github.com/aimanraz/br-ccr-svm-svc/blob/main/img/m_b-ConvertImage.jpg)
 
