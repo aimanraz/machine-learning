@@ -3,7 +3,7 @@
 # [Fintech Case Studies : Directing Customers to Subscription Through App Behavior Analysis](https://github.com/aimanraz/fn-tech-logireg.git)
 In present market, most of companies have a mobile presence which is an app. Some companies provide free products/services in their mobile apps in an attempt to transition customers to a paid/pro membership. 
 
-![]()
+![](https://github.com/aimanraz/fn-tech-logireg/blob/main/img/apps.JPG)
 
 # [Fashion/Clothes Detection using Convolutional Neural Network (CNN)](https://github.com/aimanraz/fsh-dtcn-cnn.git)
 Before we start, I want to share with you guys what inspired me to do this project. Did you guys know that according to the [news](https://economictimes.indiatimes.com/small-biz/sme-sector/fast-fashion-industry-wants-cheap-disposable-trendy-clothes-but-it-comes-at-a-price/articleshow/77032023.cms) in July 2020, fashion and textile industries contribute 2.3 % to the world GDP which equivalent to 1.8 trillion USD!. Yeah, textile and fashion industries under the major spotlight. Next, I want to share with you some old videos from YouTube about [Amazon 'echo look'](https://youtu.be/9X_fP4pPWPw) which also inspired me to develop this model.
